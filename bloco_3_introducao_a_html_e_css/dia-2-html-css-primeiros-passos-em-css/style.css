@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+    color: #5E747F;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.menu{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: #7B9E87;
+}
+
+#bio{
+    left: 52%;
+    position: absolute;
+    color: #5E747F;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.descricao{
+    position: absolute;
+    top: 25%;
+    left: 28%;
+    color: #5E747F;
+}
+
+body{
+    background-color: #D2D0BA;
+    padding: 3%;
+}
+
+.comp{
+    font-size: 140%;
+    color: #7B9E87
+}
+
+#minha-foto{
+    float: left;
+    height: 225px;
+    padding: 10px;
+    background-color: #B6BE9C;
+}
+
+.image-container{
+    height: 245px;
+    position: relative;
+}
+
+ul li:nth-child(odd){
+    
+}
